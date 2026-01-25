@@ -5,7 +5,8 @@
 # npm create vite@latest my-project
 # cd my-project
 
-# npm install tailwindcss @tailwindcss/vite
+# 
+
 
 <!-- vite.config.js add to -->
 <p> import tailwindcss from '@tailwindcss/vite'
